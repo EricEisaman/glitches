@@ -1,6 +1,6 @@
-# A-Frame Vaporwave
+# EDDIES A-FRAME EXAMPLE
 
-By [Ada Rose Edwards](@lady_ada_king).
+Based on a project by [Ada Rose Edwards](@lady_ada_king).
 
 ![](https://cloud.githubusercontent.com/assets/674727/24307301/e00ba40a-1080-11e7-9f61-e7c4d5627109.png)
 
